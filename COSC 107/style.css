@@ -1,0 +1,34 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(119, 119, 119);
+    margin:30px;
+    padding: 0px;
+    text-align: center;
+    
+
+}
+.container {
+    text-align: center;
+
+}
+IMG {
+    width: 500px;
+    margin: 0;
+    padding: 0;
+}
+
+#description {
+    margin-top: 20px;
+}
+#timer {
+    margin-left: 35%;
+    width: 10cm;
+    font-size: 45px;
+    font-weight: bold;
+    color: beige;
+    border-style: double;
+    border-radius: 90px;
+    border-color: black;
+    
+    }
+
